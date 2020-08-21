@@ -5,3 +5,8 @@ No Hp : 081322436443
 Email : rahmat.rizal@lecturer.unri.ac.id
 Pekerjaan : Dosen, Android Developer
 Hobi : Programming, Game
+S1 : Universitas Pasundan
+S2 : Institut Teknologi Bandung
+Status : Menikah
+No KTP : 3273200312830001
+Keahlian : Mobile Development, Animation, Augmented Reality, Game Development
